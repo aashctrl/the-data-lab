@@ -1,21 +1,42 @@
 # 📅 Day 1
+**Date:** 26 June 2026
 
-## Topics Covered
-- SQL Constraints
-- SQL Operators
-- SQLZoo Practice
-- GitHub Repository Setup
+## 🎯 Today's Goal
+- Learn SQL Constraints & Operators
+- Complete SQLZoo practice
+- Set up TheDataLab repository
 
-## Completed
+## ✅ Completed
+### SQL
+- Completed SQL Constraints
+- Completed SQL Operators
 - Completed SQLZoo:
   - SELECT Basics
   - SELECT from World
-- Created TheDataLab repository.
-- Attended AI Workshop.
+### GitHub
+- Created TheDataLab repository
+- Added README
+- Added Learning Log
+### Extra Learning
+- Attended Claude AI Workshop
 
-## Pending
+## 💡 Key Learnings
+- Constraints help maintain data integrity.
+- SQL operators are used to filter and manipulate data.
+- GitHub folders can be created using `folder_name/file_name`.
+
+## 🚧 Challenges
+- Couldn't complete Python OOP.
+- DSA felt difficult today.
+
+
+## ▶️ Next Session
 - Python OOP
-- DSA Arrays
+- Arrays
+- SQL Practice
 
-## Next Goal
-Finish Python OOP and begin DSA Arrays.
+## 📈 Progress
+Python: ⬜⬜⬜⬜⬜
+SQL: 🟩⬜⬜⬜⬜
+DSA: ⬜⬜⬜⬜⬜
+Machine Learning: ⬜⬜⬜⬜⬜

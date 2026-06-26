@@ -1,3 +1,8 @@
+![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
+![Python](https://img.shields.io/badge/Python-Learning-yellow)
+![SQL](https://img.shields.io/badge/SQL-Learning-green)
+![Machine Learning](https://img.shields.io/badge/ML-Starting-orange)
+
 # 🧪 TheDataLab
 
 ## 👨‍💻 About

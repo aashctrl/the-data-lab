@@ -9,4 +9,5 @@ class Student:
 s1 = Student("Aditya", "A", "Maths")
 s2 = Student("Sanvi", "B", "Science")
 print(s1)
+print(s2)
 print(s2.grade)

@@ -1,3 +1,4 @@
+#class
 class Student:
     def __init__(self, name, grade, subject):
         self.name = name
@@ -6,8 +7,8 @@ class Student:
     def __str__(self):
         return f"Name: {self.name}, Grade: {self.grade}, Subject: {self.subject}"
 
-s1 = Student("Aditya", "A", "Maths")
-s2 = Student("Sanvi", "B", "Science")
+s1 = Student("Aditya", "A", "Maths") #object1
+s2 = Student("Sanvi", "B", "Science") #object2
 print(s1)
 print(s2)
 print(s2.grade)

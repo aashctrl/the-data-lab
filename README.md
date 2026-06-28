@@ -40,11 +40,6 @@ Learning-Log/
 Assets/
 ```
 
-## 📅 Progress
-| Day | Status |
-|------|--------|
-| Day 1 | 🟡 In Progress |
-
 ## ⭐ Current Focus
 - SQL
 - Python OOP

@@ -26,6 +26,50 @@ class Student:
 - `self` refers to the current object.
 - `__str__()` provides a readable string representation of an object.
 
+# 🧪 Practice Examples
+## Example 1: Student Class
+Concepts Learned:
+- Creating a class
+- Constructors (`__init__`)
+- Object creation
+- `__str__()` method
+## Example 2: Employee Class
+Concepts Learned:
+- Class Variables
+- Instance Variables
+- Methods
+- Updating Object Attributes
+- `__dict__`
+- Difference between Class and Instance Variables
+
+### Key Concepts
+**Class Variable**
+A class variable is shared among all instances of a class.
+```python
+raise_amount = 1.04
+```
+**Instance Variable**
+Each object has its own copy.
+```python
+self.first
+self.last
+self.pay
+```
+**Method**
+```python
+apply_raise()
+```
+Updates an employee's salary using the current raise percentage.
+
+## Progress
+- ✅ Student Class
+- ✅ Employee Class
+
+Next:
+- Class Methods
+- Static Methods
+- Inheritance
+
 ## 🚀 Next Topics
 - Methods
 - Encapsulation

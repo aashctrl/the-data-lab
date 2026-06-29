@@ -1,5 +1,4 @@
-# 📅 Day 1
-**Date:** 26 June 2026
+# 📅 Day 1- 26 June 2026
 
 ## 🎯 Today's Goal
 - Learn SQL Constraints & Operators

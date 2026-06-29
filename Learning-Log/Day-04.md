@@ -1,4 +1,4 @@
-# 📅 Day 04  29 JUne 2026
+# 📅 Day 04 - 29 June 2026
 ## 🎯 Goal
 Continue Python OOP, strengthen NumPy fundamentals, and practice SQL.
 

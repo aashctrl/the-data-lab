@@ -45,5 +45,14 @@ Assets/
 - Python OOP
 - DSA Foundations
 
+## 📅 Weekly Progress
+### Week 1 ✅
+- Python OOP Completed
+- SQL Section 10 Completed
+- NumPy Completed
+- Pandas Started
+- Power BI Dashboard Created
+- Commonwealth Bank Forage Simulation Completed
+- GitHub Learning Logs Maintained
 
 > "Small progress every day compounds into remarkable results."

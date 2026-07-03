@@ -18,6 +18,32 @@ B-Tree and B+ Tree are self-balancing tree data structures used for efficient se
 | Faster for single record search | Better for range queries |
 | Leaf nodes are not linked | Leaf nodes are linked |
 
+# SQL Learning
+
+## ✅ Completed
+### Udemy SQL Course
+- Section 10 Completed
+
+### SQLZoo
+Completed
+- SELECT Basics
+- SELECT from World
+- SELECT in SELECT
+
+## Skills Learned
+- Constraints
+- Operators
+- SELECT Statements
+- Nested Queries
+- Basic SQL Syntax
+
+## Next Topics
+- Joins
+- Aggregate Functions
+- GROUP BY
+- HAVING
+- Window Functions
+
 
 ## 💡 Why Databases Use B+ Trees
 - Faster indexing

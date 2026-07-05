@@ -81,3 +81,42 @@ Example:
 - Surrogate Keys improve consistency and performance.
 - Fact Tables store measurable business data.
 - Dimension Tables provide context to analyze facts.
+
+# Slowly Changing Dimensions (SCD)
+
+## Why Slowly Changing Dimensions?
+Business data changes over time. For example, a customer may change their address, phone number, or city. Slowly Changing Dimensions (SCD) are techniques used in data warehouses to manage these changes while maintaining data consistency.
+
+## What is a Slowly Changing Dimension?
+A Slowly Changing Dimension is a dimension whose attribute values change infrequently. Instead of simply overwriting old values, different SCD techniques determine whether historical information should be preserved or replaced.
+
+## SCD Types Overview
+Common SCD types include:
+- Type 0 – Fixed Dimension (No changes allowed)
+- Type 1 – Overwrite existing value
+- Type 2 – Maintain complete history
+- Type 3 – Store limited history
+- Type 4 – Use a separate history table
+- Type 5 – Combination of Type 1 and Type 4
+- Type 6 – Hybrid approach (Types 1, 2, and 3)
+
+## SCD Type 0 (Fixed Dimension)
+### Definition
+Type 0 dimensions do not allow any updates after the initial record is created. The original value remains unchanged throughout the lifetime of the record.
+### Example
+| Customer ID | Name | Date of Birth |
+|-------------|------|---------------|
+| 101 | John | 12-03-1995 |
+If John requests to modify the Date of Birth later, the warehouse ignores the change because this attribute is considered permanent.
+### Use Cases
+- Date of Birth
+- PAN Number
+- Aadhaar Number
+- Employee Joining Date
+- Product Manufacturing Date
+### Advantages
+- Simple implementation
+- Preserves original data
+- No additional storage required
+### Limitation
+- Cannot reflect corrected or updated information.

@@ -45,6 +45,7 @@ try:
 except StopIteration:
     print("Iteration Complete")
 ```
+
 ## Custom Iterator
 A custom iterator is created by implementing two special methods:
 - `__iter__()`

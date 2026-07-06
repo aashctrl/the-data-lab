@@ -1,4 +1,4 @@
-# Iterators & Iterables
+# Iterators & Iterables & Generators
 
 ## Overview
 Iteration is the process of accessing elements of a collection one at a time. Python uses the iterator protocol to make objects iterable.
@@ -79,3 +79,55 @@ class MyRange:
 
 ## Files
 - `iterators_iterables.py`
+
+# Python Generators
+## Overview
+Generators allow values to be produced one at a time instead of storing all values in memory at once. They are memory efficient and are commonly used when working with large datasets or streams of data.
+
+## Topics Covered
+- Generator Functions
+- yield keyword
+- next() function
+- Generator Objects
+- Generator Expressions
+- List Comprehensions vs Generator Expressions
+
+## Generator Function
+A generator function uses the `yield` keyword to return values one at a time.
+Example:
+```python
+def sqno(num):
+    for i in num:
+        yield i * i
+```
+
+## next()
+The `next()` function retrieves the next value produced by a generator.
+
+## Generator Expression
+Example:
+```python
+(x*x for x in [1,2,3,4,5])
+```
+Generator expressions work similarly to list comprehensions but generate values lazily.
+
+## Advantages
+- Memory efficient
+- Faster for large datasets
+- Generates values only when needed
+
+## Key Difference
+List Comprehension:
+```python
+[x*x for x in nums]
+```
+Generator Expression:
+```python
+(x*x for x in nums)
+```
+
+## Time Complexity
+Traversing all generated values: **O(n)**
+
+## Learning Outcome
+Learned how generators produce values lazily, how `yield` differs from `return`, and how generator expressions improve memory efficiency.

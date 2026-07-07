@@ -60,3 +60,15 @@ Reverses an array using the Two Pointer Technique.
 
 ## Learning Outcome
 Developed a strong understanding of basic array algorithms that form the foundation for more advanced DSA problems.
+
+## Problems Covered
+- Count Even and Odd Numbers
+- Find Second Largest Element
+- Find Second Smallest Element
+
+### Concepts Learned
+- Array traversal
+- Maintaining multiple variables
+- Single-pass algorithms
+- Time Complexity: O(n)
+- Space Complexity: O(1)

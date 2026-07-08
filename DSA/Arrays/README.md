@@ -1,74 +1,55 @@
 # Arrays
 
 ## Overview
-An array is a linear data structure that stores elements in contiguous memory locations. Each element is accessed using an index, allowing constant-time access.
+This folder contains my implementations of fundamental array problems while learning Data Structures & Algorithms (DSA). The focus is on understanding traversal, searching, validation, modification, and basic optimization techniques.
 
-## Characteristics
-- Stores elements in sequential memory.
-- Indexing starts from 0 in Python.
-- Elements can be accessed directly using their index.
-- Supports efficient traversal.
-- Insertion and deletion at arbitrary positions require shifting elements.
+## Topics Covered
+### Array Basics
+- Creating arrays
+- Accessing elements
+- Updating elements
+- Traversing arrays
+- Array length
+### Searching
+- Linear Search
+- Linear Search with Index
+### Finding Elements
+- Largest Element
+- Smallest Element
+- Second Largest Element
+- Second Smallest Element
+### Array Operations
+- Reverse an Array (Two-Pointer Technique)
+- Count Even and Odd Elements
+- Check if an Array is Sorted
+- Move All Zeros to the End
 
-## Time Complexity
-| Operation | Complexity |
-|----------|------------|
-| Access | O(1) |
-| Update | O(1) |
+## Concepts Practiced
+- Array Traversal
+- Conditional Statements
+- Loops
+- Flags
+- Two-Pointer Technique
+- Auxiliary Arrays
+- Time & Space Complexity Analysis
+
+
+## Time Complexities
+| Problem | Time |
+|---------|------|
 | Traversal | O(n) |
 | Linear Search | O(n) |
-| Insertion | O(n) |
-| Deletion | O(n) |
-
-## Concepts Covered
-- What is an Array
-- Memory Representation
-- Accessing Elements
-- Updating Elements
-- Traversing Arrays
-- Finding Length of an Array
+| Largest / Smallest Element | O(n) |
+| Second Largest / Smallest | O(n) |
+| Reverse Array | O(n) |
+| Count Even/Odd | O(n) |
+| Check Sorted Array | O(n) |
+| Move Zeros to End | O(n) |
 
 ## Files
-- `array_basics.py` — Basic array operations in Python.
+- `array_basics.py`
+- `array_algorithms.py`
+- `array_validation.py`
 
-# Array Algorithms
-
-## Overview
-Implemented basic array algorithms to understand traversal, searching, comparison, and two-pointer techniques.
-
-## Algorithms Covered
-### 1. Linear Search
-Searches for a target element by checking each element one by one.
-**Time Complexity:** O(n)
-### 2. Largest Element
-Finds the maximum element in an array using traversal.
-**Time Complexity:** O(n)
-### 3. Smallest Element
-Finds the minimum element in an array using traversal.
-**Time Complexity:** O(n)
-### 4. Reverse Array
-Reverses an array using the Two Pointer Technique.
-**Time Complexity:** O(n)
-**Space Complexity:** O(1)
-
-## Concepts Learned
-- Array Traversal
-- Searching
-- Comparison
-- Two Pointer Technique
-- Time Complexity Analysis
-
-## Learning Outcome
-Developed a strong understanding of basic array algorithms that form the foundation for more advanced DSA problems.
-
-## Problems Covered
-- Count Even and Odd Numbers
-- Find Second Largest Element
-- Find Second Smallest Element
-
-### Concepts Learned
-- Array traversal
-- Maintaining multiple variables
-- Single-pass algorithms
-- Time Complexity: O(n)
-- Space Complexity: O(1)
+## Technologies
+- Python

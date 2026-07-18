@@ -53,3 +53,35 @@ This folder contains my implementations of fundamental array problems while lear
 
 ## Technologies
 - Python
+
+### Topics Covered
+- Count the frequency of an element in an array.
+- Remove duplicates from a sorted array.
+- Analyze time and space complexity.
+- Understand the cost of membership checks using `in`.
+
+### Programs
+#### 1. Frequency of an Element
+Count the number of times a given element appears in an array.
+**Concepts used:**
+- Traversal
+- Conditional statements
+- Counters
+**Complexity:**
+- Time Complexity: `O(n)`
+- Space Complexity: `O(1)`
+#### 2. Remove Duplicates from a Sorted Array
+Create a new array containing only unique elements from a sorted array.
+**Concepts used:**
+- Traversal
+- Lists
+- Membership checking
+- Duplicate handling
+**Complexity:**
+- Time Complexity: `O(n²)`
+- Space Complexity: `O(n)`
+
+### File
+```text
+array_frequency.py
+```

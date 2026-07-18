@@ -23,7 +23,7 @@
 - Completed the **AI Model Benchmark Explorer** project.
 - Uploaded and documented the project on GitHub.
 #### Internship
-- Started a new internship focused on **AI in Storytelling & Digital Media**.
+- Started a new remote internship focused on **AI in Storytelling & Digital Media**.
 
 ## Files Added
 - `array_frequency.py`

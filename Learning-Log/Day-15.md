@@ -9,7 +9,6 @@ Continued my DSA journey with array rotation problems.
 Completed:
 * Left Rotation of an Array by 1
 * Right Rotation of an Array by 1
-
 Concepts Practiced:
 * Array traversal
 * Index manipulation
@@ -20,7 +19,6 @@ Concepts Practiced:
 
 ## 📊 Excel
 Started the Excel section of my Data Analytics course.
-
 Covered:
 * Introduction to Microsoft Excel
 * Understanding the Excel interface

@@ -15,3 +15,15 @@ arr2.append(arr1)
 for i in range(0,len(arr-1)):
     arr2.append(arr[i])
 print(arr2)
+
+#array rotation by k positions
+arr=[1,2,3,4,5]
+k=2
+arr1 = arr[:k]
+arr2=[]
+for i in range(k,len(arr)):
+    arr2.append(arr[i])
+for i in arr1:
+    arr2.append(i)
+print(arr1)
+print(arr2)

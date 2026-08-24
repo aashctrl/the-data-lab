@@ -39,10 +39,33 @@ Covered:
 - Highlighting specific values
 - Using conditional rules to make patterns and results easier to identify
 - Understanding how formatting can improve data readability
+### Excel Functions
+Covered a wide range of Excel functions for calculations, conditional logic, text manipulation, date/time handling, and data lookup.
+#### Mathematical & Numeric Functions
+- `SUM()`
+- `MAX()`
+- `MIN()`
+- `ROUND()`
+#### Conditional Functions
+- `IF()`
+- `COUNTIF()`
+- `SUMIF()`
+- `IFERROR()`
+#### Lookup & Reference Functions
+- `VLOOKUP()`
+- `INDEX()`
+- `MATCH()`
+#### Date & Time Functions
+- `TODAY()`
+- Basic date and time functions
+#### Text Functions
+- Text functions
+- Text formatting and manipulation
+- Concatenation and working with text values
+Practiced using these functions for calculations, conditional analysis, data lookup, and manipulating structured data.
 
 ### 🔄 Progress
 Currently learning Excel fundamentals and practicing basic operations.
 More topics, exercises, and practical work will be added as the Excel section progresses.
-
 ## 🎯 Goal
 Build practical Excel skills for data analysis, visualization, and handling structured datasets.

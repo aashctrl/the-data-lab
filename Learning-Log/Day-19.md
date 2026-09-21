@@ -1,7 +1,7 @@
 # 📅 Day 19- 25 August 2026
 
 ## 📊 Excel
-🎉 **Completed the Excel section of the Data Analytics course!**
+**Completed the Excel section of the Data Analytics course!**
 After working through the Excel fundamentals and gradually progressing into more advanced functions, analysis, Pivot Tables, and visualization, I officially completed the final section of my Data Analytics course.
 Topics covered throughout the Excel section included:
 - Excel interface and Ribbon
